@@ -1,11 +1,10 @@
 {
-	"properties": [
-		{
+	"properties": [{
 			"id": "1",
 			"type": "House of Character",
 			"details": "This house of character is tucked away in an alley..........",
 			"price": 500000,
-			"town" : "Paola"
+			"town": "Paola",
 			"finished": false
 		},
 		{
@@ -13,10 +12,10 @@
 			"type": "Apartment",
 			"details": "This apartment is finished and fully furnished..........",
 			"price": 250000,
-			"town" : "Tarxien"
+			"town": "Tarxien",
 			"finished": true
-		
+
 		}
-		
+
 	]
 }
